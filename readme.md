@@ -202,6 +202,7 @@
 - [cacheable-request](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 - [gotql](https://github.com/khaosdoctor/gotql) - GraphQL request library built on [got](https://github.com/sindresorhus/got).
 - [global-agent](https://github.com/gajus/global-agent) - Global HTTP/HTTPS proxy agent that is configurable using environment variables.
+- [url-request](https://github.com/Debdut/Url) - A Url Builder and Request Library with Functional Chaining, Async/Await and Fork Capabilities to build your all API calls.
 
 ### Debugging / Profiling
 
